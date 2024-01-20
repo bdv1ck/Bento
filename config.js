@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Rei',
+	name: 'Vick',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -36,10 +36,10 @@ const CONFIG = {
 	defaultLongitude: '74.392',
 
 	// Autochange
-	autoChangeTheme: false,
+	autoChangeTheme: true,
 
 	// Autochange by OS
-	changeThemeByOS: true,
+	changeThemeByOS: false,
 
 	// Autochange by hour options (24hrs format, string must be in: hh:mm)
 	changeThemeByHour: false,
