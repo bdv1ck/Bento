@@ -32,8 +32,8 @@ const CONFIG = {
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '34.049',
-	defaultLongitude: '74.392',
+	defaultLatitude: '25.658115',
+	defaultLongitude: '-100.312248',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'UANL',
+			icon: 'graduation-cap',
+			link: 'https://www.uanl.mx/enlinea/',
 		},
 		{
 			id: '4',
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: '4Chan',
+			icon: 'clover',
+			link: 'https://4chan.org',
 		},
 		{
 			id: '6',
